@@ -10,7 +10,7 @@ detailed test strategies, test cases, and automation scripts across web, mobile,
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻I am student of School of Computing and doing Bachelor of Computer Science (Software Engineering) *Universiti Teknologi Malaysia*
+- 👨‍💻 I have recently completed my Bachelor’s degree in Software Engineering from Universiti Teknologi Malaysia*
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
