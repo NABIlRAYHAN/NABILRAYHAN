@@ -70,15 +70,11 @@ of delivering stable, scalable, and user-focused solutions on time.</h3>
   <a href="https://marketplace.atlassian.com/apps/1014680/zephyr-scale-test-management-for-jira" target="_blank" rel="noreferrer"> 
   <img src="https://avatars.githubusercontent.com/u/42267715?s=200&v=4" alt="zephyr" width="40" height="40"/> 
 </a>
-  <a href="https://testlink.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/TestLink_Logo.png" alt="testlink" width="40" height="40"/> 
-  </a>
+ 
   <a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="teams" width="40" height="40"/> 
   </a>
- <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40" height="40"/> 
-</a>
+
 
   <!-- Machine Learning Tools -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
