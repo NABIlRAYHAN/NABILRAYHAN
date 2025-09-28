@@ -89,3 +89,45 @@ detailed test strategies, test cases, and automation scripts across web, mobile,
 </p>
 
 
+### 🛠️ Skills  
+
+- **Manual Testing:** Functional, Regression, Smoke, Sanity, UAT, Performance & Load Testing  
+- **Automation Testing:** Cypress, Selenium, Jest, Postman, REST API validation, CI/CD pipelines (GitHub Actions)  
+- **Test Process:** Test Case Design, Execution & Documentation, Bug Tracking & Reporting  
+- **Management Tools:** JIRA, Zephyr, TestLink, Teams, Notion  
+- **Programming Languages:** HTML, CSS, Java, JavaScript, Angular, TypeScript  
+- **Methodologies:** Agile, Scrum, Waterfall  
+- **Machine Learning Tools:** MATLAB, TensorFlow, RStudio, PyTorch  
+
+
+### 💼 Professional Experience  
+
+**Software Quality Assurance Engineer** – The Attention Network (Bangladesh)  
+*Jun 2025 – Sep 2025*  
+- Created 30+ test plans & bug reports for Next.js & Supabase apps, reducing escaped defects by 25%.  
+- Implemented 50+ automated unit & e2e tests (Jest, Cypress), increasing coverage from 65% → 92%.  
+- Configured CI/CD pipelines with GitHub Actions, reducing release cycle times by 30%.  
+
+**Software Quality Tester** – Xover Consultancy Sdn Bhd (Malaysia)  
+*Jul 2023 – Nov 2024*  
+- Developed & maintained 30+ test scripts, improving performance stability by 80%.  
+- Logged 60+ bugs in JIRA/Zephyr, enhanced cross-browser coverage by 40%.  
+- Worked on **core banking systems** (deposits, CASA, transactions, OAO modules).  
+
+**Research Assistant** – Software Engineering Research Group, UTM (Malaysia)  
+*Sep 2022 – Mar 2024*  
+- Built ML models (scikit-learn) for **student performance prediction**.  
+- Designed & deployed a Django-based ML dashboard with custom backend features.  
+
+
+### 🚀 Key Projects  
+
+- **[Attention Event Ticketing Platform](https://www.theattention.network/event)** – Cypress e2e testing, Jest unit testing, CI/CD pipelines.  
+- **[Attention Admin Panel & Validator App](https://admin.theattention.network/auth/login)** – Dashboard testing with Cypress, regression testing, Supabase data integrity.  
+- **Squid Game Leaderboard & Volunteer Panel** – Jest unit tests (90%+ coverage), Cypress real-time validation, CI/CD integration.  
+- **[Agro Bank](https://eagro.com.my/agrobank/index.php)** – Database & system testing for CASA workflows and OAO modules.  
+- **[MSU E-Commerce Platform](https://www.msu.edu.my/)** – Angular-based multi-role app, Cypress e2e testing.  
+- **[T&C Coffee Bean Tealeaf](https://www.coffeebean.com.my/)** – Jest unit testing, Cypress workflow validation, bug tracking in JIRA.  
+
+---
+
