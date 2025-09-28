@@ -1,5 +1,10 @@
 <h1 align="center">Hlw, I'm Nabil Rayhan</h1>
-<h3 align="center">Highly motivated and enthusiastic undergraduate software engineering student with a strong focus on Development lifecycle of application.</h3>
+<h3 align="center">Software Quality Assurance(SQA) Engineer with hands-on experience in both manual and automated testing, en-
+suring software products meet functional, performance, and reliability standards. Skilled in creating and executing
+detailed test strategies, test cases, and automation scripts across web, mobile, and API platforms. Experienced in
+collaborating with cross-functional teams to identify defects early, improve development workflows, and maintain
+high product quality throughout the SDLC. Adept at using modern QA tools and methodologies, with a track record
+of delivering stable, scalable, and user-focused solutions on time.</h3>
 
 
 
