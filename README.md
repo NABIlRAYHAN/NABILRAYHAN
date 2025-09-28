@@ -1,10 +1,7 @@
 <h1 align="center">Hlw, I'm Nabil Rayhan</h1>
 <h3>Software Quality Assurance(SQA) Engineer with hands-on experience in both manual and automated testing, en-
 suring software products meet functional, performance, and reliability standards. Skilled in creating and executing
-detailed test strategies, test cases, and automation scripts across web, mobile, and API platforms. Experienced in
-collaborating with cross-functional teams to identify defects early, improve development workflows, and maintain
-high product quality throughout the SDLC. Adept at using modern QA tools and methodologies, with a track record
-of delivering stable, scalable, and user-focused solutions on time.</h3>
+detailed test strategies, test cases, and automation scripts across web, mobile, and API platforms. </h3>
 
 
 
