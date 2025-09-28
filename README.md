@@ -24,16 +24,15 @@ of delivering stable, scalable, and user-focused solutions on time.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
+ 
+  <!-- Manual & Automation Testing -->
+   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
 </a>
-  <!-- Manual & Automation Testing -->
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a> 
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="cypress" width="40" height="40"/> 
-  </a>
+ 
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a> 
@@ -68,18 +67,18 @@ of delivering stable, scalable, and user-focused solutions on time.</h3>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> 
   </a>
-  <a href="https://zephyrdocs.atlassian.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://static-00.iconduck.com/assets.00/zephyr-icon-2048x2048-2rcs4l7a.png" alt="zephyr" width="40" height="40"/> 
-  </a>
+  <a href="https://marketplace.atlassian.com/apps/1014680/zephyr-scale-test-management-for-jira" target="_blank" rel="noreferrer"> 
+  <img src="https://avatars.githubusercontent.com/u/42267715?s=200&v=4" alt="zephyr" width="40" height="40"/> 
+</a>
   <a href="https://testlink.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/TestLink_Logo.png" alt="testlink" width="40" height="40"/> 
   </a>
   <a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="teams" width="40" height="40"/> 
   </a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40" height="40"/> 
-  </a>
+ <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40" height="40"/> 
+</a>
 
   <!-- Machine Learning Tools -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
