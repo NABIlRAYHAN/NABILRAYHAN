@@ -24,6 +24,9 @@ of delivering stable, scalable, and user-focused solutions on time.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
+</a>
   <!-- Manual & Automation Testing -->
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
