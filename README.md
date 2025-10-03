@@ -122,5 +122,9 @@ detailed test strategies, test cases, and automation scripts across web, mobile,
 - **[Attention Network Admin Panel & Validator App](https://docs.google.com/document/d/1mRVbWrOteX05-Rx_XjI71tOsKBdUNswg/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true)**
 - **[Squid Game-LeaderBoard](https://docs.google.com/spreadsheets/d/1qfqE6oPDEmj9GHU64tDQfl0gGiyti58M/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true)**
 - **[Squid Game- Admin](https://docs.google.com/spreadsheets/d/1AaeT9RHVqClHLHYD4P-zrVXWMngDOBM6/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true)**
+
+** Bug Report
+- **[Attention Event Ticketing Platform](https://docs.google.com/document/d/1mRVbWrOteX05-Rx_XjI71tOsKBdUNswg/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true)**
+- **[Attention Network Admin Panel & Validator App](https://docs.google.com/document/d/1rOvfDsLxSthvd9EDdJendBqZLtwYKoom/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true)**
 ---
 
