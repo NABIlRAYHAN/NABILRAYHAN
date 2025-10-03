@@ -119,9 +119,9 @@ detailed test strategies, test cases, and automation scripts across web, mobile,
 ** TEST CASES
 - **[Msu e-commerce web & mobile application ](https://drive.google.com/drive/folders/1II7GxcMN6thLYcMO8tA6hzbyJEfAirnW?usp=sharing)** 
 - **[Attention Event Ticketing Platform](https://docs.google.com/document/d/1mRVbWrOteX05-Rx_XjI71tOsKBdUNswg/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true)**
-- - **[Attention Network Admin Panel & Validator App](https://docs.google.com/document/d/1mRVbWrOteX05-Rx_XjI71tOsKBdUNswg/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true)**
-  - **[Squid Game-Leaderboard]([https://drive.google.com/drive/folders/1II7GxcMN6thLYcMO8tA6hzbyJEfAirnW?usp=sharing](https://docs.google.com/spreadsheets/d/1qfqE6oPDEmj9GHU64tDQfl0gGiyti58M/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true))**
-  - **[Squid Game-Volunteer App ]([https://drive.google.com/drive/folders/1II7GxcMN6thLYcMO8tA6hzbyJEfAirnW?usp=sharing](https://docs.google.com/document/d/1qY3Y8ENe1Dl7TEDq9PGLYihTGsjtzPJo/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true))**
+- **[Attention Network Admin Panel & Validator App](https://docs.google.com/document/d/1mRVbWrOteX05-Rx_XjI71tOsKBdUNswg/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true)**
+- **[Squid Game-Leaderboard]([https://drive.google.com/drive/folders/1II7GxcMN6thLYcMO8tA6hzbyJEfAirnW?usp=sharing](https://docs.google.com/spreadsheets/d/1qfqE6oPDEmj9GHU64tDQfl0gGiyti58M/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true)**
+  - **[Squid Game-Volunteer App ]([https://drive.google.com/drive/folders/1II7GxcMN6thLYcMO8tA6hzbyJEfAirnW?usp=sharing](https://docs.google.com/document/d/1qY3Y8ENe1Dl7TEDq9PGLYihTGsjtzPJo/edit?usp=sharing&ouid=110253176888634611322&rtpof=true&sd=true)**
   - 
 ---
 
